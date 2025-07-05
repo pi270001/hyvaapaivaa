@@ -101,7 +101,7 @@ are all used for **indirect objects**, and if you see a word in one of
 these cases, it is never a direct object.
 
 So, there it is.  Finnish has a flexible word order, and the
-nominative and genitive are directly allow that.
+nominative and genitive are directly allowing that.
 
 
 Sentence structure
